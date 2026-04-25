@@ -1,4 +1,4 @@
 # biyesheji_SNNfangzhen
 
-VOx莫特忆阻器基人工传入神经元加SNN的python软件仿真
-VOx莫特忆阻器基人工传入神经元加SNN的FPGA硬件仿真
+VOx莫特忆阻器基人工传入神经元加SNN的python软件仿真；
+VOx莫特忆阻器基人工传入神经元加SNN的FPGA硬件仿真。
